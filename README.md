@@ -9,8 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deep-nayak)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deep-nayak007)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepnayakusa@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=netlify&logoColor=white)](https://deepnayak.netlify.app/)
-[![Profile Views](https://komarev.com/ghpvc/?username=Deep-nayak007&style=for-the-badge&color=blueviolet)](https://github.com/Deep-nayak007)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=netlify&logoColor=white)](https://deepnayakportfolio.netlify.app/)
 
 </div>
 
@@ -196,7 +195,11 @@ Data Stream -> Kafka -> Python ETL -> Neo4j Graph Models
 
 <div align="center">
 
-![snake gif](https://github.com/Deep-nayak007/Deep-nayak007/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deep-nayak007/Deep-nayak007/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deep-nayak007/Deep-nayak007/main/dist/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Deep-nayak007/Deep-nayak007/main/dist/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
