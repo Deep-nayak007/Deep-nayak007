@@ -122,7 +122,7 @@ Recognized by the Intellectual Property Office, United Kingdom.
 
 <img src="./assets/profile-footer.svg" width="100%"/>
 
-**Open to software engineering opportunities in backend, cloud, and full-stack development.**
+**Open to opportunities in Software Engineering, AI/ML, and Data Science across backend, cloud, and full-stack development.**
 
 [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deep-nayak)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepnayakusa@gmail.com)
