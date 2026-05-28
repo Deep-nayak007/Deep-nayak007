@@ -25,14 +25,12 @@ I am a Software Developer with 4 years of experience building backend and cloud-
 
 ## Impact Highlights
 
-<div align="center">
-
-![Users Served](https://img.shields.io/badge/Users%20Served-10%2C000%2B-0A66C2?style=for-the-badge)
-![Deployment Speed](https://img.shields.io/badge/Deployment%20Time-40%25%20Faster-1F7A8C?style=for-the-badge)
-![Backend Performance](https://img.shields.io/badge/Backend%20Performance-35%25%20Improvement-0B8F6A?style=for-the-badge)
-![Franchise Scale](https://img.shields.io/badge/Franchise%20Scale-200%2B%20Locations-E67E22?style=for-the-badge)
-
-</div>
+| Metric | Impact |
+|---|---|
+| Users Served | **10,000+** |
+| Deployment Time | **40% Faster** |
+| Backend Performance | **35% Improvement** |
+| Franchise Scale | **200+ Locations** |
 
 ---
 
