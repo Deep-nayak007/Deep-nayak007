@@ -1,15 +1,17 @@
+this is the whole read.me file 
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Deep-nayak007/Deep-nayak007/main/assets/profile-header-v3.svg" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&duration=2500\&pause=900\&color=00F7FF\&center=true\&vCenter=true\&width=950\&lines=Software+Engineer+%7C+MS+CS+%40+Arizona+State+University;12%2B+Production+Features+Shipped+%7C+5%2C000%2B+Monthly+Appointments;C%23+%E2%80%A2+.NET+%E2%80%A2+React+%E2%80%A2+Angular+%E2%80%A2+AWS+%E2%80%A2+Azure)](https://github.com/Deep-nayak007)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Engineering+Scalable+APIs+for+Real-World+Products;10%2C000%2B+Users+Served+%7C+40%25+Faster+Deployments;.NET+%E2%80%A2+Java+%E2%80%A2+React+%E2%80%A2+AWS+%E2%80%A2+Azure+%E2%80%A2+Kubernetes)](https://github.com/Deep-nayak007)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/deep-nayak)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:deepnayakusa@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://deep-nayak007.github.io/deep-nayak/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Deep-nayak007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deep-nayak)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepnayakusa@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=githubpages&logoColor=white)](https://deep-nayak007.github.io/deep-nayak/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deep-nayak007)
 
 </div>
 
@@ -17,117 +19,88 @@
 
 ## About Me
 
-I am a **Software Engineer with 3+ years of professional experience** building full-stack applications, backend systems, APIs, and cloud-based solutions across healthcare, financial services, analytics, and enterprise platforms.
+I am a Software Developer with 4 years of experience building backend and cloud-first systems for finance, analytics, and enterprise workflows. I am currently pursuing an M.S. in Computer Science at Arizona State University (4.0/4.0 GPA), focused on production-grade API architecture, distributed systems, and DevOps reliability. My work emphasizes secure design, measurable performance gains, and clean delivery across full-stack products.
 
-Most recently, I worked as a **Software Engineer Intern at Nextech Systems**, contributing to production features across Nextech Practice Management's scheduling, billing, and patient workflows. I shipped **12+ features and fixes** supporting a platform handling **5,000+ monthly appointments**, working across C#, .NET, Angular, TypeScript, APIs, SQL Server, testing, and production debugging.
-
-I am currently pursuing an **M.S. in Computer Science at Arizona State University (4.0/4.0 GPA)**, graduating in **May 2027**. My interests include production software engineering, distributed systems, cloud infrastructure, AI/ML, and data-intensive applications.
-
-* 💼 Most recently: **Software Engineer Intern @ Nextech Systems**
-* 🎓 M.S. Computer Science @ **Arizona State University** — 4.0/4.0 GPA
-* 💻 Core: `C#` `.NET` `Java` `Python` `React` `Angular` `TypeScript` `SQL`
-* ☁️ Cloud & Systems: `AWS` `Azure` `Docker` `Kubernetes` `Kafka` `CI/CD`
-* 🔍 Ask me about: `Backend Engineering`, `REST APIs`, `Distributed Systems`, `Full-Stack Development`
-* 🎯 Seeking **Fall 2027 full-time opportunities** in Software Engineering, AI/ML, and Data Science
+- Ask me about: `.NET Core`, `ASP.NET Web API`, `Java`, `React`, `Node.js`, `REST APIs`, `SQL Server`, `PostgreSQL`, `Docker`, `Kubernetes`, `Azure DevOps`, `AWS`, `CI/CD`, `Apache Kafka`, `Distributed Systems`
 
 ---
 
 ## Impact Highlights
 
-| Metric                      | Impact                           |
-| --------------------------- | -------------------------------- |
-| Nextech Production Delivery | **12+ Features & Fixes Shipped** |
-| Clinical Scheduling Scale   | **5,000+ Monthly Appointments**  |
-| Enterprise Users Served     | **10,000+ Users**                |
-| Deployment Time             | **40% Faster**                   |
-| Backend Performance         | **35% Improvement**              |
-| Franchise Scale             | **200+ Locations**               |
+| Metric | Impact |
+|---|---|
+| Users Served | **10,000+** |
+| Deployment Time | **40% Faster** |
+| Backend Performance | **35% Improvement** |
+| Franchise Scale | **200+ Locations** |
 
 ---
 
 ## Tech Stack
 
 ### Core Backend and API Engineering
-
 `C#` `Java` `Python` `SQL` `C++` `.NET Core` `ASP.NET MVC` `ASP.NET Web API` `Spring Boot` `Hibernate` `Node.js` `Express.js`
 
-### Frontend Engineering
+### Cloud, DevOps, and Data Systems
+`AWS` `Microsoft Azure` `Docker` `Kubernetes` `Azure DevOps` `GitLab CI/CD` `Jenkins` `Apache Kafka` `SQL Server` `PostgreSQL` `MySQL` `Oracle SQL` `MongoDB`
 
-`React.js` `Angular` `JavaScript` `TypeScript` `HTML5` `CSS3`
-
-### Cloud, DevOps, and Distributed Systems
-
-`AWS` `Microsoft Azure` `Docker` `Kubernetes` `Azure DevOps` `GitLab CI/CD` `Jenkins` `Apache Kafka`
-
-### Databases and Data
-
-`SQL Server` `PostgreSQL` `MySQL` `Oracle SQL` `MongoDB` `Neo4j` `Pandas` `NumPy` `ETL Pipelines`
-
-### Testing and Developer Tools
-
-`Karma` `xUnit` `NUnit` `SonarQube` `Postman` `JIRA` `Git` `GitHub` `Visual Studio` `VS Code`
+### Frontend and Supporting Tools
+`React.js` `Angular` `JavaScript` `TypeScript` `HTML5` `CSS3` `Flask` `Pandas` `NumPy` `Postman` `JIRA` `Git` `Visual Studio` `VS Code`
 
 ---
 
 ## Experience
 
-### Software Engineer Intern - Nextech Systems (`Jun 2026 - Aug 2026`)
-
-* **Shipped 12+ production features and fixes** across Nextech Practice Management's scheduler, billing, and patient modules, supporting **5,000+ monthly appointments**.
-* **Built backend functionality using C# and Python**, contributing to API endpoints, business logic, and data processing while extending end-to-end full-stack ownership.
-* **Modernized scheduling experiences** by replacing CSS-based workarounds with Bryntum's native calendar APIs for a live time indicator and dynamic row scaling.
-* **Improved scheduling workflows** by fixing appointment-linking sort logic, resource visibility and search behavior, and standardizing UI styling across scheduling dialogs.
-* **Improved billing and API maintainability** by refactoring billing/provider services for modularity and contributing automated tests through GitHub PR, CI, and security-scanning workflows.
-* **Owned engineering tasks end-to-end**, from reproducing issues and tracing root causes to implementation, testing, code review, QA validation, and delivery.
-
 ### Software Developer - We3.Tech (`Aug 2024 - Jul 2025`)
-
-* **Scaled operations to 200+ franchise locations:** designed and delivered secure .NET Core REST APIs with role-based authentication, validation, and structured logging.
-* **Improved backend performance by 35%:** optimized async workflows, SQL queries, and in-memory caching for faster response paths.
-* **Increased analytics accuracy by 25%:** built real-time C# data pipelines with consistent, production-safe processing.
-* **Shipped full-stack product features:** integrated React + .NET modules with token-based third-party API connectivity.
+- **Scaled operations to 200+ franchise locations:** designed and delivered secure .NET Core REST APIs with role-based authentication, validation, and structured logging.
+- **Improved backend performance by 35%:** optimized async workflows, SQL queries, and in-memory caching for faster response paths.
+- **Increased analytics accuracy by 25%:** built real-time C# data pipelines with consistent, production-safe processing.
+- **Shipped full-stack product features:** integrated React + .NET modules with token-based third-party API connectivity.
 
 ### Associate Software Developer - MUFG (`Jul 2022 - Aug 2024`)
+- **Delivered platform scale for 10,000+ users:** led backend development for enterprise Member Center APIs with JWT auth, Okta SSO, and RBAC.
+- **Reduced production defects by 30%:** expanded xUnit/NUnit test automation and enforced SonarQube static quality gates.
+- **Accelerated delivery by 40%:** optimized Azure DevOps CI/CD pipelines for faster deploys and stronger rollback reliability.
+- **Raised frontend efficiency:** built modular React components that improved UI performance and reduced support tickets by 25%.
 
-* **Delivered platform scale for 10,000+ users:** led backend development for enterprise Member Center APIs with JWT authentication, Okta SSO, and role-based access control.
-* **Reduced production defects by 30%:** expanded xUnit/NUnit test automation and enforced SonarQube static quality gates.
-* **Accelerated delivery by 40%:** optimized Azure DevOps CI/CD pipelines for faster deployments and stronger rollback reliability.
-* **Improved frontend efficiency:** built modular React components integrated with REST APIs, improving UI performance and reducing support tickets by 25%.
+### Full Stack Developer Intern - Taruna Infosoft (`Jan 2021 - Jun 2022`)
+- **Processed 5,000+ secure transactions:** built and deployed a React + Java REST e-commerce application with Razorpay/PayPal integration.
+- **Improved backend throughput:** optimized relational schema design and SQL query execution patterns.
+- **Strengthened application security:** implemented role-based access control and server-side validation.
+- **Increased team efficiency:** created Python automation scripts for reporting and recurring workflows.
 
 ---
 
 ## Featured Projects
 
 ### Remote File Transmission System
-
-**Problem:** Securely sharing files across users was slow and inconsistent.
-**Solution:** Built a .NET MVC/.NET Core platform with QR-based access, OTP verification, encrypted storage, and role-based access control.
-**Impact:** Delivered a secure file-transfer workflow with improved upload/download performance through backend and database query optimization.
-**Stack:** `.NET MVC` `.NET Core` `REST APIs` `SQL` `Authentication`
+**Problem:** Securely sharing files across users was slow and inconsistent.  
+**Solution:** Built a .NET MVC/.NET Core platform with QR-based access, OTP verification, encrypted storage, and role-based access control.  
+**Impact:** Delivered a reliable secure-transfer workflow with faster upload/download performance after backend and query optimization.  
+**Stack:** `.NET MVC` `.NET Core` `REST APIs` `SQL` `Authentication`  
 **Repo:** [Remote-File-Sharing-System-using-QR-Code](https://github.com/Deep-nayak007/Remote-File-Sharing-System-using-QR-Code)
 
 ### Real-Time Graph Data Processing Pipeline
-
-**Problem:** High-volume streaming data required scalable processing and graph-based analytics.
-**Solution:** Engineered a Kafka-driven pipeline using Python ETL workflows, Neo4j graph modeling, Docker, and Kubernetes.
-**Impact:** Enabled distributed processing and graph analytics using PageRank and BFS over NYC taxi data.
-**Stack:** `Python` `Apache Kafka` `Neo4j` `Docker` `Kubernetes` `ETL`
+**Problem:** High-volume taxi stream data required scalable analytics with graph-based insights.  
+**Solution:** Engineered a Kafka-driven pipeline with Python ETL, Neo4j graph modeling, and containerized Kubernetes deployment.  
+**Impact:** Enabled resilient, distributed processing and graph analytics (PageRank/BFS) for large-scale transportation data.  
+**Stack:** `Python` `Kafka` `Neo4j` `Docker` `Kubernetes`
 
 ---
 
 ## Patent
 
-**UK Design Patent (Design No. 6376787)** — *Smart Baby Swing for Optimal Infant Care* (`Jul 2024`)
-Awarded by the **Intellectual Property Office, United Kingdom**, recognizing an innovative product design and technical concept.
+**UK Design Patent (Design No. 6376787)** - *Smart Baby Swing for Optimal Infant Care* (`Jul 2024`)  
+Recognized by the Intellectual Property Office, United Kingdom.
 
 ---
 
 ## Education
 
-| Degree                    | Institution              | Score              | Year                |
-| ------------------------- | ------------------------ | ------------------ | ------------------- |
-| M.S. Computer Science     | Arizona State University | **4.0 / 4.0 GPA**  | Aug 2025 - May 2027 |
-| B.E. Computer Engineering | University of Mumbai     | **8.58 / 10 CGPA** | Jun 2018 - Jun 2022 |
+| Degree | Institution | Score | Year |
+|---|---|---|---|
+| M.S. Computer Science | Arizona State University | 4.0 / 4.0 GPA | Aug 2025 - May 2027 |
+| B.E. Computer Engineering | University of Mumbai | 8.58 / 10 CGPA | Jun 2018 - Jun 2022 |
 
 ---
 
@@ -149,11 +122,9 @@ Awarded by the **Intellectual Property Office, United Kingdom**, recognizing an 
 
 <img src="https://raw.githubusercontent.com/Deep-nayak007/Deep-nayak007/main/assets/profile-footer.svg" width="100%"/>
 
-### Open to Fall 2027 Opportunities
+**Open to opportunities in Software Engineering, AI/ML, and Data Science across backend, cloud, and full-stack development.**
 
-**Software Engineering • Backend • Full-Stack • Cloud • AI/ML • Data Science**
-
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/deep-nayak)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:deepnayakusa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deep-nayak)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepnayakusa@gmail.com)
 
 </div>
