@@ -113,7 +113,7 @@ I am currently pursuing an **M.S. in Computer Science at Arizona State Universit
 **Impact:** Enabled distributed processing and graph analytics using PageRank and BFS over NYC taxi data.
 **Stack:** `Python` `Apache Kafka` `Neo4j` `Docker` `Kubernetes` `ETL`
 
-### Auditor — AI Accounting Agent (Cal Hacks 13.0 · Hyphenate Track)
+### Auditor — AI Accounting Agent (UC Berkeley Hackathon - Cal Hacks 13.0 )
 
 **Problem:** At month-end the bank, the books and the contracts often disagree, and finance teams spend hours finding out why. An AI that moves money on its own can't be trusted.
 **Solution:** Co-built, in a team of 4, an AI staff accountant for the cash close. A Claude agent proposes journal entries with exact citations, a TypeScript controls engine checks every proposal, and a human controller approves exceptions. The agent cannot post entries itself; the server enforces it.
