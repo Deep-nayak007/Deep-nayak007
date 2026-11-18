@@ -80,12 +80,16 @@ I am currently pursuing an **M.S. in Computer Science at Arizona State Universit
 * **Improved billing and API maintainability** by refactoring billing/provider services for modularity and contributing automated tests through GitHub PR, CI, and security-scanning workflows.
 * **Owned engineering tasks end-to-end**, from reproducing issues and tracing root causes to implementation, testing, code review, QA validation, and delivery.
 
+**Stack:** `C#` `.NET` `Python` `Angular` `TypeScript` `SQL Server` `REST APIs` `Bryntum` `CI/CD`
+
 ### Software Developer - We3.Tech (`Aug 2024 - Jul 2025`)
 
 * **Scaled operations to 200+ franchise locations:** designed and delivered secure .NET Core REST APIs with role-based authentication, validation, and structured logging.
 * **Improved backend performance by 35%:** optimized async workflows, SQL queries, and in-memory caching for faster response paths.
 * **Increased analytics accuracy by 25%:** built real-time C# data pipelines with consistent, production-safe processing.
 * **Shipped full-stack product features:** integrated React + .NET modules with token-based third-party API connectivity.
+
+**Stack:** `C#` `.NET Core` `REST APIs` `SQL` `React` `Caching` `Role-Based Access Control`
 
 ### Associate Software Developer - MUFG (`Jul 2022 - Aug 2024`)
 
@@ -94,6 +98,8 @@ I am currently pursuing an **M.S. in Computer Science at Arizona State Universit
 * **Accelerated delivery by 40%:** optimized Azure DevOps CI/CD pipelines for faster deployments and stronger rollback reliability.
 * **Improved frontend efficiency:** built modular React components integrated with REST APIs, improving UI performance and reducing support tickets by 25%.
 
+**Stack:** `C#` `.NET` `REST APIs` `JWT` `Okta SSO` `React` `xUnit` `NUnit` `SonarQube` `Azure DevOps` `CI/CD`
+
 ---
 
 ## Featured Projects
@@ -101,16 +107,23 @@ I am currently pursuing an **M.S. in Computer Science at Arizona State Universit
 ### Remote File Transmission System
 
 **Problem:** Securely sharing files across users was slow and inconsistent.
+
 **Solution:** Built a .NET MVC/.NET Core platform with QR-based access, OTP verification, encrypted storage, and role-based access control.
+
 **Impact:** Delivered a secure file-transfer workflow with improved upload/download performance through backend and database query optimization.
+
 **Stack:** `.NET MVC` `.NET Core` `REST APIs` `SQL` `Authentication`
+
 **Repo:** [Remote-File-Sharing-System-using-QR-Code](https://github.com/Deep-nayak007/Remote-File-Sharing-System-using-QR-Code)
 
 ### Real-Time Graph Data Processing Pipeline
 
 **Problem:** High-volume streaming data required scalable processing and graph-based analytics.
+
 **Solution:** Engineered a Kafka-driven pipeline using Python ETL workflows, Neo4j graph modeling, Docker, and Kubernetes.
+
 **Impact:** Enabled distributed processing and graph analytics using PageRank and BFS over NYC taxi data.
+
 **Stack:** `Python` `Apache Kafka` `Neo4j` `Docker` `Kubernetes` `ETL`
 
 ### Way Out — Wildfire Evacuation Dispatch (SunHacks 9.0, ASU)
@@ -130,10 +143,15 @@ I am currently pursuing an **M.S. in Computer Science at Arizona State Universit
 ### Auditor — AI Accounting Agent (UC Berkeley Hackathon - Cal Hacks 13.0 )
 
 **Problem:** At month-end the bank, the books and the contracts often disagree, and finance teams spend hours finding out why. An AI that moves money on its own can't be trusted.
+
 **Solution:** Co-built, in a team of 4, an AI staff accountant for the cash close. A Claude agent proposes journal entries with exact citations, a TypeScript controls engine checks every proposal, and a human controller approves exceptions. The agent cannot post entries itself; the server enforces it.
+
 **My role (Data + Retrieval):** Built a seeded Python generator (368 bank transactions, 387 journal entries, 11 planted errors with an answer key, every amount validated in integer cents); a FastAPI + Moss retrieval service that filters by entity and date and returns exact cited text, which also powers the "Ask Auditor" voice assistant; CRS vendor identity and fraud checks that hold the payment when a check fails; and Context.dev web scraping and webhook intake for vendor changes. Wrote 72 Python tests in the team's 338-test suite.
+
 **Impact:** A vendor's sudden bank-detail change holds a $42,000 payment before money moves. A case a human approves once posts automatically in later months, citing that decision.
+
 **Stack:** `Python` `FastAPI` `Moss` `Claude` `Convex` `TypeScript` `React` `CRS` `Context.dev` `Vercel`
+
 **Live:** [auditor-nine-ecru.vercel.app](https://auditor-nine-ecru.vercel.app)
 
 ---
