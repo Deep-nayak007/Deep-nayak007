@@ -113,6 +113,20 @@ I am currently pursuing an **M.S. in Computer Science at Arizona State Universit
 **Impact:** Enabled distributed processing and graph analytics using PageRank and BFS over NYC taxi data.
 **Stack:** `Python` `Apache Kafka` `Neo4j` `Docker` `Kubernetes` `ETL`
 
+### Way Out — Wildfire Evacuation Dispatch (SunHacks 9.0, ASU)
+
+**Problem:** In wildfires, the people who die are mostly older adults and people who can't leave on their own. Disability lists exist, but when a fire comes nobody has the staff to call everyone in time, and false reassurance ("help is on the way") keeps people at home.
+
+**Solution:** Co-built, in a team of 4, a system that calls every home in an evacuation zone the moment the county moves it to SET. It finds who can't leave and matches them to a van or a neighbor with the right seats, wheelchair space and crew. A dispatcher approves, a driver accepts on their phone, and the resident is called back. The agent can never say help is coming until a driver has accepted: every ride sentence comes from a fixed template, and a guard drops any AI wording that sounds like a promise.
+
+**My role (Resident side: voice agent, calls, honesty, evals):** Built the call state machine and English/Spanish templates; an interpreter designed for Gemini JSON output with a rule-based fallback; the honesty guard; a Cartesia voice agent that relays each caller turn to the API; a dialer that calls every home at SET with a retry ladder (2 min → 5 min → text → door-knock list); a callback worker that phones the resident when a driver accepts or a road closes; a TinyFish watcher that reads the Ready/Set/Go page and starts the calls; duplicate-household detection; a kiosk where judges get called as a resident; the live call-floor page; and a 40-persona eval suite with a /system metrics page. Free tiers only: paid models are switched off in code.
+
+**Impact:** In a real phone test, the agent completed a full census call (record filled in, ride request created, no promise made), and both callbacks rang within seconds of the status change: "driver accepted" with name and ETA, and "your driver can no longer reach you". The TinyFish trigger flipped a live zone to SET from a public page. In simulation, 200 homes were called in about 2 minutes.
+
+**Stack:** `Python` `FastAPI` `MongoDB Atlas` `Cartesia` `TinyFish` `Gemini API` `Next.js` `TypeScript` `Tailwind` `Docker` `Vultr` `Vercel` `GitHub Actions`
+
+**Live:** [way-out-git-develop-yash-chardes-projects.vercel.app](https://way-out-git-develop-yash-chardes-projects.vercel.app) · **Repo:** [Yash-Charde/way-out](https://github.com/Yash-Charde/way-out)
+
 ### Auditor — AI Accounting Agent (UC Berkeley Hackathon - Cal Hacks 13.0 )
 
 **Problem:** At month-end the bank, the books and the contracts often disagree, and finance teams spend hours finding out why. An AI that moves money on its own can't be trusted.
